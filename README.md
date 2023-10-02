@@ -29,6 +29,6 @@ Zomato is one of the best online food delivery apps which gives the users the ra
 
 - Build an appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features
 
-- **DEPLOY** the Machine learning model via **Flask** that can be used to make live predictions of restaurants ratings
+- **DEPLOY** the Machine learning model via **Flask** that was  used to make live predictions of restaurants ratings
 
 
