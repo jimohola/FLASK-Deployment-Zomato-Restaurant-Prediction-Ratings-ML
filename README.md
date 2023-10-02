@@ -1,4 +1,7 @@
-# End-To-End Deployment of Zomato Restaurant Ratings
+# FLASK Deployment of Zomato Restaurant Ratings
+
+![Web app image](https://github.com/jimohola/Zomato-Restaurant-Ratings--ML/assets/62597513/124eb767-092e-4a6f-ab8d-515c973eec02)
+
 
 ## Hi, I'm Fatai Jimoh! 👋
 
@@ -18,6 +21,8 @@ I'm a Data Scientist
 Zomato is one of the best online food delivery apps which gives the users the ratings and the reviews on restaurants all over india. These ratings and the Reviews are considered as one of the most important deciding factors which determine how good a restaurant is.
 
 
+
+
 **Main Objective:**
 
 - Perform extensive **Exploratory Data Analysis(EDA)** on the Zomato Dataset.
@@ -27,4 +32,3 @@ Zomato is one of the best online food delivery apps which gives the users the ra
 - **DEPLOY** the Machine learning model via **Flask** that can be used to make live predictions of restaurants ratings
 
 
-**--Updated soon**
